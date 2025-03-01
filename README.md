@@ -1,7 +1,4 @@
-# GitHub API Repository and Commit Counter
+# Mocking edit for hw04c
 
-[![CircleCI](https://circleci.com/gh/luismancilla1218/GitHubApi567-hw4a.svg?style=shield)](https://circleci.com/gh/luismancilla1218/GitHubApi567-hw4a)
+[![CircleCI](https://circleci.com/gh/luismancilla1218/GitHubApi567-hw4a/tree/HW04a_Mocking.svg?style=shield)](https://circleci.com/gh/luismancilla1218/GitHubApi567-hw4a/tree/HW04a_Mocking)
 
-This program gets GitHub repositories and their commit counts for a given user.
-
-HW 04
