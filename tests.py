@@ -1,6 +1,6 @@
 import unittest
 from unittest.mock import patch, Mock
-from github_apis import get_repos, get_commits, get_repos_and_commits, print_repos_and_commits
+from github_api import get_repos, get_commits, get_repos_and_commits, print_repos_and_commits
 
 class TestGitHubAPI(unittest.TestCase):
     
